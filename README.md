@@ -1,7 +1,7 @@
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 
 # Hello World!, I'm Jyothis, a Creative Web Developer 👋🏼:
-🛜 currently crafting innovative 3D and AR-powered web experiences<br>👨🏼‍🎓 graduated with a Master's in Computer Applications from Bharathiar University<br>👨🏼‍💻 working as a web developer since 2021 <br>
+🛜 Currently crafting innovative 3D and AR-powered web experiences<br>👨🏼‍🎓 Graduated with a Master's in Computer Applications from Bharathiar University<br>👨🏼‍💻 Working as a web developer since 2021 <br>
 
 
 # 💻 Tech Stack:
